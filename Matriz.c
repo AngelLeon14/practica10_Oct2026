@@ -1,5 +1,5 @@
 /*León Flores Ángel Ricardo 
-Ejercicio 1. Práctica 10
+Programa 1. Práctica 10
 Matriz*/
 
 #include<stdio.h>
